@@ -1,2 +1,1 @@
-config:
-  zuulMethodKey: serviceId,path
+zuulMethodKey: serviceId,path

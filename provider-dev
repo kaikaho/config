@@ -1,0 +1,6 @@
+provider:
+  datasource:
+    url: jdbc:mysql:///kjxz?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+    username: root
+    password: root
+    driverClassName: com.mysql.jdbc.Driver
